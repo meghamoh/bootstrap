@@ -1,0 +1,23 @@
+
+
+index css
+
+
+
+.box{
+  
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(32, 207, 32);
+    
+}
+.body{
+    background-color: rgb(239, 184, 245);
+}
+a{
+    text-decoration:dotted;
+    cursor: grab;
+}
+.container {
+    padding: 16px;
+  }
